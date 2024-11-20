@@ -109,26 +109,27 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun getInitialStudentList() = listOf(
-        StudentModel("Nguyễn Hoàng Anh", "SV01"),
-        StudentModel("Trần Quỳnh Hoa", "SV02"),
-        StudentModel("Lê Minh Khôi", "SV03"),
-        StudentModel("Phạm Thu Hằng", "SV04"),
-        StudentModel("Đỗ Quốc Bảo", "SV05"),
-        StudentModel("Vũ Thanh Tú", "SV06"),
-        StudentModel("Hoàng Phúc Hậu", "SV07"),
-        StudentModel("Bùi Thùy Dung", "SV08"),
-        StudentModel("Đinh Thanh Hương", "SV09"),
-        StudentModel("Nguyễn Mai Trang", "SV10"),
-        StudentModel("Phạm Gia Huy", "SV11"),
-        StudentModel("Trần Bảo Ngọc", "SV12"),
-        StudentModel("Lê Nhật Nam", "SV13"),
-        StudentModel("Vũ Hoàng Anh", "SV14"),
-        StudentModel("Hoàng Diễm Phương", "SV15"),
-        StudentModel("Đỗ Thái Sơn", "SV16"),
-        StudentModel("Nguyễn Khánh Linh", "SV17"),
-        StudentModel("Trần Quang Hải", "SV18"),
-        StudentModel("Phạm Thùy Trang", "SV19"),
-        StudentModel("Lê Đức Minh", "SV20")
+        StudentModel("Phạm Gia Huy", "SV101"),
+        StudentModel("Trần Bảo Ngọc", "SV102"),
+        StudentModel("Lê Nhật Nam", "SV103"),
+        StudentModel("Vũ Hoàng Anh", "SV104"),
+        StudentModel("Hoàng Diễm Phương", "SV105"),
+        StudentModel("Đỗ Thái Sơn", "SV106"),
+        StudentModel("Nguyễn Khánh Linh", "SV107"),
+        StudentModel("Trần Quang Hải", "SV108"),
+        StudentModel("Phạm Thùy Trang", "SV109"),
+        StudentModel("Lê Đức Minh", "SV110"),
+        StudentModel("Nguyễn Hoàng Anh", "SV111"),
+        StudentModel("Trần Quỳnh Hoa", "SV112"),
+        StudentModel("Lê Minh Khôi", "SV113"),
+        StudentModel("Phạm Thu Hằng", "SV114"),
+        StudentModel("Đỗ Quốc Bảo", "SV115"),
+        StudentModel("Vũ Thanh Tú", "SV116"),
+        StudentModel("Hoàng Phúc Hậu", "SV117"),
+        StudentModel("Bùi Thùy Dung", "SV118"),
+        StudentModel("Đinh Thanh Hương", "SV119"),
+        StudentModel("Nguyễn Mai Trang", "SV120")
+
     )
 
 
